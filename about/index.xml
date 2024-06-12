@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on YieldEst</title>
-    <link>https://yielset.cc/about/</link>
+    <link>https://www.yieldest.cc/about/</link>
     <description>Recent content in Abouts on YieldEst</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
@@ -10,19 +10,19 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>YieldEst</copyright>
     <lastBuildDate>Tue, 11 Jun 2024 16:07:18 +0800</lastBuildDate>
-    <atom:link href="https://yielset.cc/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.yieldest.cc/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://yielset.cc/about/about_en/</link>
+      <link>https://www.yieldest.cc/about/about_en/</link>
       <pubDate>Tue, 11 Jun 2024 16:07:18 +0800</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://yielset.cc/about/about_en/</guid>
+      <guid>https://www.yieldest.cc/about/about_en/</guid>
       <description>Unleash Potential: Invest in Taiwan&amp;rsquo;s Thriving Real Estate Market Welcome to Yieldest, your gateway to unlocking the exciting opportunities in Taiwan&amp;rsquo;s dynamic real estate market. Whether you&amp;rsquo;re a seasoned investor or just starting your journey, we provide comprehensive resources and insights to guide you towards building a secure and profitable portfolio.&#xA;Why Taiwan? Strategic Location: Taiwan boasts a robust economy, fueled by innovation and a skilled workforce. Its central location in Asia makes it a major trade hub, attracting businesses and driving demand for quality real estate.</description>
     </item>
     <item>
       <title>關於</title>
-      <link>https://yielset.cc/about/about/</link>
+      <link>https://www.yieldest.cc/about/about/</link>
       <pubDate>Tue, 11 Jun 2024 16:07:18 +0800</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://yielset.cc/about/about/</guid>
+      <guid>https://www.yieldest.cc/about/about/</guid>
       <description>潛力：投資台灣蓬勃發展的市場 歡迎來到 Yieldest，您的門戶，通往台灣充滿活力的房地產市場的令人興奮的機會。無論您是經驗豐富的投資者還是剛剛開始您的旅程，我們都提供全面的資源和見解，引導您建立安全且有利可圖的投資組合。&#xA;為什麼是台灣？ 戰略位置： 台灣擁有強勁的經濟，由創新和熟練的勞動力推動。其在亞洲的中心位置使其成為主要的貿易樞紐，吸引企業並推動對優質房地產的需求。 穩定市場： 台灣的房地產市場具有穩步增長的歷史，為尋求長期穩定性的投資者提供了安全的避風港。 多樣化的選擇： 從繁華的大都市如台北到高成長地區，台灣滿足了各種投資目標。探索住宅物業、商業空間或挖掘 REITs（房地產投資信託）的潛力。 探索投資途徑： 住宅物業： 投資公寓、獨棟住宅或學生宿舍，以受益於台灣不斷增長的人口和城市化趨勢。 商業物業： 通過投資辦公室空間、零售場所或工業園區來利用台灣蓬勃發展的商業環境。 REITs： 通過 REITs 獲得多元化的房地產資產組合，為您提供定期股息的潛在無憂投資。 Yieldest：您的投資合作夥伴 免責聲明： 此信息僅供教育目的，不應被視為財務建議。在做出任何投資決定之前，請諮詢合格</description>
     </item>
   </channel>
