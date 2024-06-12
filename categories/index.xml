@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on mo11om</title>
-    <link>https://mo11om.github.io/categories/</link>
-    <description>Recent content in Categories on mo11om</description>
+    <title>Categories on YieldEst</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on YieldEst</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <atom:link href="https://mo11om.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>YieldEst</copyright>
+    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
